@@ -1,5 +1,9 @@
-# Esten Grove
-Front-End Developer
+<div style="width: 100%;height: 300px;background-color: hsla(220, 18%, 20%, 1); color: #ffffff;">
+  <h1 style="font-size: 30px;font-weight: 600;text-align:center;">
+    Esten Grove
+  </h1>
+  
+</div>
 
 
 ---
